@@ -8,6 +8,6 @@ fizz_5 = "Buzz"
 elsif (int % 3 && int % 5) == 0
 fizz_15 = "FizzBuzz"
 elsif int % 4 == 0
-fizz_4 = "nil"
+fizz_4 = nil
 end
 end
